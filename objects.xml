@@ -8,5 +8,5 @@
     <age>{{ dog[1].age }}</age>
     <color>{{ dog[1].color}}</color>
   </dog>
-  {$ endfor %}
+  {$ end for %}
 </dogs>
