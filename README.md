@@ -91,9 +91,4 @@ The end result will now be avialable at http://**username**.github.io/**name-of-
 
 
 ### To Do 
-- clarify that only yml file should be in _data 
-- fixing numbering
 
-
-
- and modify the term after 'site.data' to include the name of the yml file. 
