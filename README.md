@@ -30,7 +30,7 @@ lassie:
 {{ site.data.objects | jsonify }}
 ````
 
-The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.json.  For instance,  [https://itchristos.github.io/Simple-API/objects.json]
+The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.json.  For instance,  [https://ITChristos.github.io/Simple-API/objects.json]
 
 ### 5) Create an xml template file, name it `objects.xml`, and include the below:
 
@@ -50,7 +50,7 @@ The end result will now be avialable at http://**username**.github.io/**name-of-
 </dogs>
 ````
 
-The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.xml.  For instance,  [https://itchristos.github.io/Simple-API/objects.xml]
+The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.xml.  For instance,  [https://ITChristos.github.io/Simple-API/objects.xml]
 
 ### 6) Create a csv template, name it `objects.csv`, and include the below:
 
@@ -62,7 +62,7 @@ Name,Age,Breed,Color
 {% endfor %}
 ````
 
-The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.csv.  For instance, [https://itchristos.github.io/Simple-API/objects.csv].
+The end result will now be avialable at http://**username**.github.io/**name-of-repo**/objects.csv.  For instance, [https://ITChristos.github.io/Simple-API/objects.csv].
 
 
 
@@ -86,7 +86,7 @@ The end result will now be avialable at http://**username**.github.io/**name-of-
   </body>
 </html>
 ````
-The end result will now be avialable at http://**username**.github.io/**name-of-repo**/.  For instance, [https://itchristos.github.io/Simple-API/].
+The end result will now be avialable at http://**username**.github.io/**name-of-repo**/.  For instance, [https://ITChristos.github.io/Simple-API/].
 
 
 
