@@ -1,0 +1,5 @@
+---
+---
+Name,Age,Breed,Color
+{% for dog in site.data.objects %}{{ dog[0] }},{{ dog[1].age }},{{ dog[1].breed }},{{ dog[1].color }}
+{% endfor %}
